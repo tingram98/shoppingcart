@@ -16,6 +16,9 @@ This JavaScript code provides a set of functions for managing a shopping cart. I
   - [pay](#pay)
 - [Unit Tests](#unit-tests)
 
+# Note
+The `script.js` file was coded by the author of this page, the rest of the files were provided by **Udacity**.
+
 ## Introduction
 
 The provided JavaScript code defines an array of `products` and various functions to interact with a shopping cart. Each product in the `products` array includes details such as name, price, quantity, and an image link. The functions allow you to manipulate the cart by adding, updating, and removing products, calculating the cart total, handling payments, and more.
@@ -62,5 +65,3 @@ The code is designed to be tested using unit tests. The provided `module.exports
 npm run test
 
 
-# Note
-The `script.js` page was coded by the author, the rest of the files were provided by Udacity.
